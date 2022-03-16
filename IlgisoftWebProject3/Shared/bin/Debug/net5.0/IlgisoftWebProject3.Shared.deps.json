@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IlgisoftWebProject3.Shared/1.0.0": {
+        "runtime": {
+          "IlgisoftWebProject3.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IlgisoftWebProject3.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

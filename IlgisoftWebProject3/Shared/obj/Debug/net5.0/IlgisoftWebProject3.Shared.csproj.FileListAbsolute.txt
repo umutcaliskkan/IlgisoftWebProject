@@ -1,0 +1,12 @@
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\bin\Debug\net5.0\IlgisoftWebProject3.Shared.deps.json
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\bin\Debug\net5.0\IlgisoftWebProject3.Shared.dll
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\bin\Debug\net5.0\ref\IlgisoftWebProject3.Shared.dll
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\bin\Debug\net5.0\IlgisoftWebProject3.Shared.pdb
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\obj\Debug\net5.0\IlgisoftWebProject3.Shared.csproj.AssemblyReference.cache
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\obj\Debug\net5.0\IlgisoftWebProject3.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\obj\Debug\net5.0\IlgisoftWebProject3.Shared.AssemblyInfoInputs.cache
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\obj\Debug\net5.0\IlgisoftWebProject3.Shared.AssemblyInfo.cs
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\obj\Debug\net5.0\IlgisoftWebProject3.Shared.csproj.CoreCompileInputs.cache
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\obj\Debug\net5.0\IlgisoftWebProject3.Shared.dll
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\obj\Debug\net5.0\ref\IlgisoftWebProject3.Shared.dll
+C:\Users\UMUT\source\repos\IlgisoftWebProject3\IlgisoftWebProject3\Shared\obj\Debug\net5.0\IlgisoftWebProject3.Shared.pdb
